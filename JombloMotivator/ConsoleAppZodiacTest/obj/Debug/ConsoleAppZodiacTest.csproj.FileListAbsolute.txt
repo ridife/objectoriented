@@ -1,0 +1,14 @@
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\ConsoleAppZodiacTest.exe.config
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\ConsoleAppZodiacTest.exe
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\ConsoleAppZodiacTest.pdb
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\obj\Debug\ConsoleAppZodiacTest.csprojAssemblyReference.cache
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\obj\Debug\ConsoleAppZodiacTest.csproj.CoreCompileInputs.cache
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\obj\Debug\ConsoleAppZodiacTest.exe
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\obj\Debug\ConsoleAppZodiacTest.pdb
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\ZodiacRestAPI.dll
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\RestSharp.dll
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\ZodiacRestAPI.pdb
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\RestSharp.xml
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ridif\source\repos\JombloMotivator\ConsoleAppZodiacTest\obj\Debug\ConsoleAppZodiacTest.csproj.CopyComplete

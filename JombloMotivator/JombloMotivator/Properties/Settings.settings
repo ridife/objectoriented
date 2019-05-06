@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JombloMotivator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SelectedDate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">04/28/2019 09:09:00</Value>
+    </Setting>
+    <Setting Name="InsertSQL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">insert into TableFavorit (CatatanPribadi, KataKunci, SemangatHidup, Mood) VALUES ('{0}','{1}','{2}','{3}')</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source={0}\DatabaseJombloMotivator.accdb;Persist Security Info=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
